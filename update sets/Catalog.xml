@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2025-06-25 04:51:05">
+<sc_catalog action="INSERT_OR_UPDATE">
+<active>true</active>
+<description>It is a  car showroom.</description>
+<desktop_continue_shopping/>
+<desktop_home_page/>
+<desktop_image/>
+<editors/>
+<enable_wish_list>false</enable_wish_list>
+<manager display_value=""/>
+<sys_class_name>sc_catalog</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-06-07 13:55:21</sys_created_on>
+<sys_id>08c233a483c622100a9cb6cfeeaad3ff</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Mahendra</sys_name>
+<sys_package display_value="Global" source="global">global</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sc_catalog_08c233a483c622100a9cb6cfeeaad3ff</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-06-07 13:55:21</sys_updated_on>
+<title>Mahendra</title>
+</sc_catalog>
+</unload>

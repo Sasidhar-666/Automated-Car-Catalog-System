@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2025-06-25 04:13:50">
+<wf_workflow_version action="INSERT_OR_UPDATE">
+<active>true</active>
+<activity_stages>{"subflows":[],"stages":{},"activities":{},"ends":["309a169a83deea500a9cb6cfeeaad384"]}</activity_stages>
+<after_business_rules>false</after_business_rules>
+<checked_out/>
+<checked_out_by display_value=""/>
+<column_renderer display_value="Workflow-driven">a56213111b030100adca1e094f0713ac</column_renderer>
+<condition table="sc_req_item"/>
+<condition_type/>
+<description/>
+<expected_sequences>3c9a169a83deea500a9cb6cfeeaad358,b89a169a83deea500a9cb6cfeeaad359,f89a169a83deea500a9cb6cfeeaad351,6c9a169a83deea500a9cb6cfeeaad344,309a169a83deea500a9cb6cfeeaad357,309a169a83deea500a9cb6cfeeaad384</expected_sequences>
+<expected_time>1970-01-01 14:00:00</expected_time>
+<expected_time_type/>
+<full_sequences>3c9a169a83deea500a9cb6cfeeaad358,b89a169a83deea500a9cb6cfeeaad359,f89a169a83deea500a9cb6cfeeaad351,f89a169a83deea500a9cb6cfeeaad34c,6c9a169a83deea500a9cb6cfeeaad344,f89a169a83deea500a9cb6cfeeaad34a,309a169a83deea500a9cb6cfeeaad357,309a169a83deea500a9cb6cfeeaad384</full_sequences>
+<journal/>
+<max_activity_count>100</max_activity_count>
+<name>test1_catalog</name>
+<not_cacheable>false</not_cacheable>
+<on_cancel><![CDATA[// This script executes if the workflow is cancelled.// The global variable context_sys_id contains the sys_id of the cancelled workflow context.]]></on_cancel>
+<order>100</order>
+<pin_type>set_by_activity</pin_type>
+<published>true</published>
+<relative_duration display_value="2 business days by 4pm">3bf802c20a0a0b52008e2859cd8abcf2</relative_duration>
+<requires_ert>true</requires_ert>
+<run_multiple>false</run_multiple>
+<schedule display_value=""/>
+<stage_field>stage</stage_field>
+<stage_order>computed</stage_order>
+<start display_value="Begin">3c9a169a83deea500a9cb6cfeeaad358</start>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-06-25 04:12:55</sys_created_on>
+<sys_id>e09a165a83deea500a9cb6cfeeaad32d</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-06-25 04:13:03</sys_updated_on>
+<table>sc_req_item</table>
+<timezone/>
+<validated>false</validated>
+<workflow display_value="test1_catalog">8eee4e8283daaa500a9cb6cfeeaad3ea</workflow>
+</wf_workflow_version>
+</unload>

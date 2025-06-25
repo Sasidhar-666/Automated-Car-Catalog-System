@@ -25,23 +25,7 @@ This project addresses the inefficiencies faced by automotive showrooms in handl
 - 📦 **Task Automation**: Automatically assigns fulfillment tasks upon approval.
 - 🧾 **Delivery Tracking**: View delivery status and request summary post-order.
 
-## 📸 Screenshots
 
-> _Include screenshots of:_
-> - Service Catalog item (e.g., "Order Thar")
-> - Approval workflow in Flow Designer
-> - Submitted request and delivery status
-
-## 🔗 Getting Started
-
-To deploy or demo this project:
-
-1. Clone the repository.
-2. Import provided update sets / XMLs into your ServiceNow instance.
-3. Activate the app in App Engine Studio.
-4. Open the **Service Portal** (`https://your-instance.service-now.com/sp`) and search for the catalog item (e.g., "Thar").
-
-> _Make sure the necessary roles and permissions are assigned to the users._
 
 ## 📦 Repository Contents
 
